@@ -28,19 +28,28 @@ We are good to go now!
 
 ### Snapshots
 * Users list page
-![Alt text](./snapshots/)
+![Alt text](./snapshots//users_list.png)
 
-* Login Page
-![Alt text](./snapshots//login.png)
+* Add user page
+![Alt text](./snapshots//add_user.png)
 
-* Register Page
-![Alt text](./snapshots//register.png)
+* Users list after adding
+![Alt text](./snapshots//users_list_after_add.png)
 
-* Reset Password Page
-![Alt text](./snapshots//reset-password.png)
+* Delete user
+![Alt text](./snapshots//delete_user.png)
 
-* Candidates List Page
-![Alt text](./snapshots//candiate-list.png)
+* User details page
+![Alt text](./snapshots//user_details.png)
 
-* Add Candidate Page
-![Alt text](./snapshots//add-candidate.png)
+* Add calories in
+![Alt text](./snapshots//add_calorie_in.png)
+
+* calories in the list
+![Alt text](./snapshots//calorie_in_list_after_add.png)
+
+* Add calories out
+![Alt text](./snapshots//add_calorie_out.png)
+
+* calories out of the list
+![Alt text](./snapshots//calorie_out_list_after_add.png)
