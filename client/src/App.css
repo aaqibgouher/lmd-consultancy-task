@@ -1,0 +1,23 @@
+.text-blue {
+  color: #1976d2;
+}
+
+.text-black {
+  color: black;
+}
+
+.table-column-bold {
+  color: orange;
+}
+
+.no-text-underline {
+  text-decoration: none;
+}
+
+.background-color-primary {
+  background-color: #1976d2;
+}
+
+.alertDanger {
+  background-color: tomato;
+}
