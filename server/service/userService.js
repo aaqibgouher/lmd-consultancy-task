@@ -33,6 +33,7 @@ const addUser = async (name, weight, height, sex, age) => {
 const getUserDetailsById = async (userId, params = {}) => {
   // check if userId is true
   if (!userId) throw "User id is required.";
+  if (!mongoose.Types.ObjectId.isValid(userId)) throw "User id is invalid.";
   // check if user id exists
   let user = await getUserById(userId, params);
 
